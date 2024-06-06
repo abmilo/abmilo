@@ -5,7 +5,7 @@ CS Student & Aspiring Software Engineer!
 ----------------------------------------
 
 * 🌍  I'm based in Pittsburgh, PA
-* 🖥️  See my portfolio at [HERE](http://https://www.abwoops.com/)
+* 🖥️  See my portfolio at [HERE](https://www.abwoops.com/)
 * ✉️  You can contact me at [ibrahimmiloua@gmail.com](mailto:ibrahimmiloua@gmail.com)
 * ⚡  I'm secretly Spiderman, but don't tell anyone.
 
